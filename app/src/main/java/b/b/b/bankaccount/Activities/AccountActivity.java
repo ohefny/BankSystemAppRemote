@@ -185,7 +185,7 @@ public class AccountActivity extends AppCompatActivity
     }
 
     public void transfer(View view) {
-        Toast.makeText(this, "Not implemented yet", Toast.LENGTH_LONG).show();
+        openTransfer(view);
     }
 
     public void openDeposit(View view) {

@@ -45,15 +45,15 @@
         <activity
             android:name=".newapi.views.ActivitiesActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.AppBarOverlay" />
+            android:theme="@style/NewTheme" />
         <activity
             android:name=".newapi.views.TransferActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.AppBarOverlay" />
+            android:theme="@style/NewTheme" />
         <activity
             android:name=".newapi.views.TransactionActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.AppBarOverlay" />
+            android:theme="@style/NewTheme" />
     </application>
 
 </manifest>
